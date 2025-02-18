@@ -14,10 +14,11 @@ class RAGPipeline:
     def process(self, query):
         clean_query = self.cleaner.clean_text(query) #cleans user query
         query_embedding = self.embedder.encode([clean_query]) #embeds query
-        retrieved_indices = self.retriever.search(query_embedding,top_k=2) #collects similar documents to the query from the faiss
+        retrieved_indices = self.retriever.search(query_embedding,top_k=4) #collects similar documents to the query from the faiss
         context = self.retrieve_documents(retrieved_indices) #Gathers the documents from the retrieved indexes
-        response = self.generator.generate(context)
-        return response
+        final_query = f"Context:{context} The query is : {query}"
+        response = self.generator.generate(final_query)
+        return response,final_query
     def retrieve_documents(self, indices):
         docs = self.retriever.get_documents(indices)
         return "\n".join(docs)

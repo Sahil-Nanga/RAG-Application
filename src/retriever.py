@@ -28,4 +28,4 @@ class Retriever:
             return documents
         else:
             self.documents = []
-            print(f"Document store file '{self.doc_store_path}' not found.")
+        

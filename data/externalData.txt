@@ -1,10 +1,20 @@
-Solomon is 192cm tall.
-Solomon weighs 90kg.
-Solomon leads a sedentary lifestyle.
-Solomon has not done moderate physical  activity in his life.
-Solomon has a mansion.
-Solomon has a high salary.
-Solomon is an avid car collector.
-Solomon buys cars whenever one strikes his fancy.
-Solomon is single.
-Solomon is 25 years old.
+Daniel is a Senior Software Engineer at the company.
+He works in the Engineering Department.
+His employee ID is 10234.
+Daniel was born on March 12 1990.
+He was hired on June 15 2017.
+His current work location is New York City, NY, but he works remotely.
+Daniel follows a flexible work schedule from 9:00 AM to 5:00 PM.
+Daniel is skilled in programming languages such as Python, Java, and C++, and has expertise in Cloud Computing and Machine Learning.
+He holds certifications as an AWS Certified Solutions Architect and a Google Cloud Professional Cloud Architect.
+Daniel graduated with a Bachelor's degree in Computer Science from the University of California, Berkeley in 2012.
+Before joining the current company, Daniel worked at ABC Tech Solutions and XYZ Software Corp.
+Daniel reports to Sarah Adams, the Engineering Manager.
+His annual salary is $120,000.
+In his most recent performance review, Daniel received a rating of 4.5 out of 5.
+Daniel has been a key contributor to the company’s cloud migration project as the lead developer.
+He has also developed important features for the company’s core product.
+In addition to English, Daniel speaks Spanish fluently.
+Daniel is known for being a highly analytical thinker and enjoys solving complex technical problems.
+He is a collaborative team player who enjoys mentoring junior engineers and sharing knowledge.
+Outside of work, Daniel enjoys hiking, playing the guitar, and traveling. He is often described as friendly, approachable, and always eager to help others.
