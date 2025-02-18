@@ -17,4 +17,10 @@ The pipeline is divided into several components:
 - **Cleaner**: Provides utility functions to clean and normalize text.
 - **Pipeline**: Orchestrates the above modules to process a query, retrieve relevant context, and generate an augmented answer.
 
+## Requirements
+Ollama should be downloaded and the models to be used should be downloaded
 
+## How to Use
+Clone the repository into your machine 
+If you want to try using you own data delete faiss_index.bin and add your own data in externalData.txt and run indexer.py
+Run app.py and ask your own questions
